@@ -5,13 +5,3 @@
 
 
 𝐀 𝐍𝐄𝐖 𝐒𝐄𝐑𝐕𝐄𝐑 𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 𝐑𝐨𝐦𝐞𝐨𝐑𝐉
-
-### variable 
-
-``BOT_REPO``
-
-``GIT_EMAIL``
-
-``GIT_NAME``
-
-``GIT_TOKEN``
