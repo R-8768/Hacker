@@ -42,5 +42,5 @@ jobs:
               cd loop || exit 1
               echo $(date -u +%T%P) >> loop.txt
               git add loop.txt
-              git commit -m "Kaali-Linux : Loop $(date -u +%D-%T%P)"
+              git commit -m "Hacker-RJ : Loop $(date -u +%D-%T%P)"
               git push -q https://${{ secrets.GIT_TOKEN }}@github.com/${GITHUB_REPOSITORY} HEAD:hacker-rj
