@@ -8,10 +8,10 @@
 
 ### variable 
 
-BOT_REPO
+``BOT_REPO``
 
-GIT_EMAIL
+``GIT_EMAIL``
 
-GIT_NAME
+``GIT_NAME``
 
-GIT_TOKEN
+``GIT_TOKEN``
